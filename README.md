@@ -23,6 +23,7 @@ on the clients and results of the campaigns. The worksheet has the following
 
 ## Database Design 
 
+[Sreadsheet](https://github.com/akms2411/Marketflash-DB-Dashboard-Project/blob/main/data/Cleaned%20Marketflash_marketing_data_2023.xlsx)
 
 ## SQL Database Design
 
