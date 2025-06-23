@@ -34,10 +34,23 @@ FROM marketflash`
    - Positive response: measurement of satisfaction and acceptance
    - Content quality: indicator of relevant and appealing content
 9. Converation Rate %
-    - Efficiency indicator: Shows how well views are converted into actions
-    - Optimization potential: Identifies opportunities for improvement
+   - Efficiency indicator: Shows how well views are converted into actions
+   - Optimization potential: Identifies opportunities for improvement
 
 ## Project Summary
+
+1. Decision support:
+
+   - Optimize budget allocation
+   - Adjust content strategy
+   - Prioritize channels
+   - Improve campaign timing
+
+2. Early detection:
+
+   - Recognize negative trends in good time
+   - Identify successful patterns
+   - Understand seasonal fluctuations
 
 
 ## Recommendation
