@@ -12,8 +12,10 @@ on the clients and results of the campaigns. The worksheet has the following
 
 ## Project Description
 
+1. Design of an ERD (Entity Relationship Diagram / crow's foot) - [ERD]([https://www.example.com](https://github.com/akms2411/Marketflash-DB-Dashboard-Project/blob/main/images/Marketflash%20ER%20Diagramm.png))
+2. Functional ER Diagram - [ER]([https://www.example.com](https://github.com/akms2411/Marketflash-DB-Dashboard-Project/blob/main/images/Marketflash%20ER%20Diagramm.png))
 
-## Database Design
+## Database Design 
 
 
 ## SQL Database Design
