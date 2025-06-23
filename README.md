@@ -1,6 +1,6 @@
 # Marketflash-DB-Dashboard-Project
 
-The Story
+The Story:
 Markus, the owner of a new, small but growing marketing company, MarketFlash, 
 has approached you to help design and build a database and a dashboard for his business needs. 
 His business is growing, so keeping the data in worksheets is not enough anymore. 
