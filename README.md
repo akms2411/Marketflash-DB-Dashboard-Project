@@ -1,5 +1,14 @@
 # Marketflash-DB-Dashboard-Project
 
+The Story
+Markus, the owner of a new, small but growing marketing company, MarketFlash, 
+has approached you to help design and build a database and a dashboard for his business needs. 
+His business is growing, so keeping the data in worksheets is not enough anymore. 
+He also wants a dashboard for his people to have clear visibility of how the business is going so they can make good decisions in time.
+
+Currently all the information for his 2023 business is in one worksheet which you have access to. 
+It contains the information on the 1000 campaigns ran in 2023 for his 78 clients as well as information 
+on the clients and results of the campaigns. The worksheet has the following 
 
 ## Project Description
 
