@@ -37,25 +37,28 @@ on the clients and results of the campaigns. The worksheet has the following
 - Costs vs. performance balance
 - Quantity vs. quality of interactions
 
-1. Total Expense
+1. Total Expense 24.893.187 $
    
    - Cost efficiency: identification of cost drivers and optimization potential
    - Stakeholder-Reporting: Transparenz über Mittelverwendung
      
-2. Total Views
+2. Total Views 50.404.108
    
    - Reach measurement: Indicator for the visibility of your content
    - Content performance: Evaluation of the attractiveness of your content
      
-3. Total Clicks
+3. Total Clicks 2.606.521
+   
    - Engagement measurement: Shows active user interest
    - Campaign effectiveness: Measurement of calls to action
      
-4. Total Likes
+4. Total Likes 5.049.324
+   
    - Positive response: measurement of satisfaction and acceptance
    - Content quality: indicator of relevant and appealing content
      
-5. Converation Rate %
+5. Converation Rate % 1,012 %
+
    - Efficiency indicator: Shows how well views are converted into actions
    - Optimization potential: Identifies opportunities for improvement
 
