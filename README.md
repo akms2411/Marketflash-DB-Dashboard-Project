@@ -16,7 +16,7 @@ on the clients and results of the campaigns. The worksheet has the following
 2. Functional ER Diagram - [ER Pic](https://github.com/akms2411/Marketflash-DB-Dashboard-Project/blob/main/images/Marketflash%20ER%20Diagramm.png)
 5. Database in SQL Light / Beekeeper (Create Tables; 5 entries in each tables; JOINS)
 6. Google Spreadsheet cleaning the Data
-7. Create Dashboard Mockup
+7. Create Dashboard Mockup - [Mockup]([https://www.example.com](https://github.com/akms2411/Marketflash-DB-Dashboard-Project/blob/main/images/Mockup%20Dashboard.png))
 8. Create Tableau Workbook
 9. Create Dashboard in Tableau
 10. Finalizing Presentation
