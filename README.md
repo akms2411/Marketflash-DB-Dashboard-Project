@@ -25,8 +25,6 @@ on the clients and results of the campaigns. The worksheet has the following
 
 
 ## SQL Database Design
-`SELECT *
-FROM marketflash`
 
 [Marketflash DB](https://github.com/akms2411/Marketflash-DB-Dashboard-Project/blob/main/sql_db/Mini%20Projekt.db)
 
