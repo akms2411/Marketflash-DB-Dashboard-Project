@@ -51,13 +51,13 @@ FROM marketflash`
 
 ## Recommendation
 
-1. Daten Bereinigung Google Spreadsheet
+1. Data cleansing Google Spreadsheet
    
-   - Bereinigung der Telefonnummern
-   - Verbesserung der Geschlechtsdaten
-   - Altersgruppen standardisieren
-   - Datenvalidierung und Fehlerüberprüfung
-   - Regelmäßige Wartung (Checks & Schulung)
+   - Cleaning up the telephone numbers
+   - Improve gender data
+   - Standardize age groups
+   - Data validation and error checking
+   - Regular maintenance (checks & training)
    
 2. Decision support
 
