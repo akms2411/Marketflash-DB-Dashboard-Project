@@ -65,23 +65,27 @@ on the clients and results of the campaigns. The worksheet has the following
 
 ## Recommendation
 
+The data cleansing and standardization carried out forms the foundation for data-driven decisions 
+and efficient marketing strategies. The combination of technical improvements and sustainable processes 
+ensures long-term data quality, which is directly reflected in improved campaign results and Return of Investment (ROI).
+
 1. Data cleansing Google Spreadsheet
    
-   - Cleaning up the telephone numbers
-   - Improve gender data
-   - Standardize age groups
-   - Data validation and error checking
-   - Regular maintenance (checks & training)
+   - Telephone numbers, standardization of formatting (international standards)
+   - Gender, standardization of input formats (M/W/D)
+   - Automatic assignment based on dates of birth to ensure consistent groupings for analyses
+   - Validation of mandatory fields and data formats with automated error checking
+   - Documentation of standards and processes with data quality checks and training for data entry
    
 2. Decision support
 
-   - Optimize budget allocation
-   - Adjust content strategy
-   - Prioritize channels
-   - Improve campaign timing
+   - Precise target group segmentation through adjusted demographic data
+   - Target group-specific content through standardized age groups and correct gender data
+   - Optimized communication channels through streamlined telephone numbers
+   - Increased response rates through targeted approach
 
 3. Early detection
 
-   - Recognize negative trends in good time
-   - Identify successful patterns
-   - Understand seasonal fluctuations
+   - Identifying best practices for future campaigns
+   - Analysis of demographic-specific behavioural patterns
+   - Optimization of campaign planning by target group
