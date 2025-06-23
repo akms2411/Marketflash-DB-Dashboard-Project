@@ -12,8 +12,8 @@ on the clients and results of the campaigns. The worksheet has the following
 
 ## Project Description
 
-1. Design of an ERD (Entity Relationship Diagram / crow's foot) - [ERD Pic]([[title](https://www.example.com)](https://github.com/akms2411/Marketflash-DB-Dashboard-Project/blob/main/images/Marketflash%20ERD%20Diagramm.png)) 
-3. Functional ER Diagram - [ER Pic]([https://www.example.com](https://github.com/akms2411/Marketflash-DB-Dashboard-Project/blob/main/images/Marketflash%20ER%20Diagramm.png))
+1. Design of an ERD (Entity Relationship Diagram / crow's foot) - [ERD Pic](https://github.com/akms2411/Marketflash-DB-Dashboard-Project/blob/main/images/Marketflash%20ERD%20Diagramm.png)
+2. Functional ER Diagram - [ER Pic](https://github.com/akms2411/Marketflash-DB-Dashboard-Project/blob/main/images/Marketflash%20ER%20Diagramm.png)
 5. Database in SQL Light / Beekeeper (Create Tables; 5 entries in each tables; JOINS)
 6. Google Spreadsheet cleaning the Data
 7. Create Dashboard Mockup
