@@ -48,18 +48,26 @@ FROM marketflash`
 
 ## Project Summary
 
-1. Decision support:
+
+## Recommendation
+
+1. Daten Bereinigung Google Spreadsheet
+   
+   - Bereinigung der Telefonnummern
+   - Verbesserung der Geschlechtsdaten
+   - Altersgruppen standardisieren
+   - Datenvalidierung und Fehlerüberprüfung
+   - Regelmäßige Wartung (Checks & Schulung)
+   
+2. Decision support
 
    - Optimize budget allocation
    - Adjust content strategy
    - Prioritize channels
    - Improve campaign timing
 
-2. Early detection:
+3. Early detection
 
    - Recognize negative trends in good time
    - Identify successful patterns
    - Understand seasonal fluctuations
-
-
-## Recommendation
