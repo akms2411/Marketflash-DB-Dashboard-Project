@@ -14,10 +14,10 @@ on the clients and results of the campaigns. The worksheet has the following
 
 1. Design of an ERD (Entity Relationship Diagram / crow's foot) - [ERD Pic](https://github.com/akms2411/Marketflash-DB-Dashboard-Project/blob/main/images/Marketflash%20ERD%20Diagramm.png)
 2. Functional ER Diagram - [ER Pic](https://github.com/akms2411/Marketflash-DB-Dashboard-Project/blob/main/images/Marketflash%20ER%20Diagramm.png)
-3. Database in SQL Light / Beekeeper (Create Tables; 5 entries in each tables; JOINS) - [title](https://www.example.com)
-4. Google Spreadsheet File with Data Cleaning & Check - [title](https://www.example.com)
+3. Database in SQL Light / Beekeeper (Create Tables; 5 entries in each tables; JOINS)
+4. Google Spreadsheet File with Data Cleaning & Check
 5. Create Dashboard Mockup - [Mockup](https://github.com/akms2411/Marketflash-DB-Dashboard-Project/blob/main/images/Mockup%20Dashboard.png)
-6. Create Tableau Workbook - [Performance Dashboard - Marketflash 2023](https://github.com/akms2411/Marketflash-DB-Dashboard-Project/blob/main/data/Mini%20Project%20Marketflash%20.twbx)
+6. Create Tableau Workbook 
 7. Create Dashboard in Tableau - [Performance Dashboard - Marketflash 2023 (Public Link)](https://public.tableau.com/views/MiniProjectMarketflash/Dashboard1?:language=de-DE&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 9. Finalizing Presentation
 
@@ -31,33 +31,34 @@ on the clients and results of the campaigns. The worksheet has the following
 
 ## Tableau Workbook
 
+[Performance Dashboard - Marketflash 2023](https://github.com/akms2411/Marketflash-DB-Dashboard-Project/blob/main/data/Mini%20Project%20Marketflash%20.twbx)
 
 ## KPI Findings
 
 - Costs vs. performance balance
 - Quantity vs. quality of interactions
 
-1. Total Expense 24.893.187 $
+**1. Total Expense 24.893.187 $**
    
    - Cost efficiency: identification of cost drivers and optimization potential
    - Stakeholder-Reporting: Transparenz über Mittelverwendung
      
-2. Total Views 50.404.108
+**2. Total Views 50.404.108**
    
    - Reach measurement: Indicator for the visibility of your content
    - Content performance: Evaluation of the attractiveness of your content
      
-3. Total Clicks 2.606.521 / Ratio: 10.02%
+**3. Total Clicks 2.606.521 / Ratio: 10.02%**
    
    - Engagement measurement: Shows active user interest
    - Campaign effectiveness: Measurement of calls to action
      
-4. Total Likes 5.049.324 / Ratio: 5.17 %
+**4. Total Likes 5.049.324 / Ratio: 5.17 %**
    
    - Positive response: measurement of satisfaction and acceptance
    - Content quality: indicator of relevant and appealing content
      
-5. Converation Rate: 1,012 %
+**5. Converation Rate: 1,012 %**
 
    - Efficiency indicator: Shows how well views are converted into actions
    - Optimization potential: Identifies opportunities for improvement
