@@ -21,8 +21,6 @@ on the clients and results of the campaigns. The worksheet has the following
 7. Create Dashboard in Tableau - [Performance Dashboard - Marketflash 2023 (Public Link)](https://public.tableau.com/views/MiniProjectMarketflash/Dashboard1?:language=de-DE&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 9. Finalizing Presentation
 
-https://github.com/akms2411/Marketflash-DB-Dashboard-Project/blob/main/data/Mini%20Project%20Marketflash%20.twbx
-
 ## Database Design 
 
 [Sreadsheet](https://github.com/akms2411/Marketflash-DB-Dashboard-Project/blob/main/data/Cleaned%20Marketflash_marketing_data_2023.xlsx)
