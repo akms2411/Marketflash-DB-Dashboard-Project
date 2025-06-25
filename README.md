@@ -47,17 +47,17 @@ on the clients and results of the campaigns. The worksheet has the following
    - Reach measurement: Indicator for the visibility of your content
    - Content performance: Evaluation of the attractiveness of your content
      
-3. Total Clicks 2.606.521
+3. Total Clicks 2.606.521 / Ratio: 10.02%
    
    - Engagement measurement: Shows active user interest
    - Campaign effectiveness: Measurement of calls to action
      
-4. Total Likes 5.049.324
+4. Total Likes 5.049.324 / Ratio: 5.17 %
    
    - Positive response: measurement of satisfaction and acceptance
    - Content quality: indicator of relevant and appealing content
      
-5. Converation Rate % 1,012 %
+5. Converation Rate: 1,012 %
 
    - Efficiency indicator: Shows how well views are converted into actions
    - Optimization potential: Identifies opportunities for improvement
