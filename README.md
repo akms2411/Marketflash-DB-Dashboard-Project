@@ -18,8 +18,8 @@ on the clients and results of the campaigns. The worksheet has the following
 4. Google Spreadsheet cleaning the Data
 5. Create Dashboard Mockup - [Mockup](https://github.com/akms2411/Marketflash-DB-Dashboard-Project/blob/main/images/Mockup%20Dashboard.png)
 6. Create Tableau Workbook
-7. Create Dashboard in Tableau - [Performance Dashboard - Marketflash 2023](https://public.tableau.com/views/MiniProjectMarketflash/Dashboard1?:language=de-DE&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-8. Finalizing Presentation
+7. Create Dashboard in Tableau - [Performance Dashboard - Marketflash 2023 (Public Link)](https://public.tableau.com/views/MiniProjectMarketflash/Dashboard1?:language=de-DE&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+9. Finalizing Presentation
 
 ## Database Design 
 
