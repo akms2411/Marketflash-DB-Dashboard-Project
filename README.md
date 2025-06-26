@@ -42,35 +42,35 @@ This enables detailed segmentation through filter options by date, channels, cam
    The CPV of 0.49 dollars reflects the efficiency of the expenses. This key figure shows that 49 cents were invested for each individual view of the ad.
    The combination of high reach and moderate costs per view indicates a well-scaled campaign.
 
-     
-**3. Total Clicks 2.606.521 / Ratio: 10.02%**
+**3. Total Likes 5.049.324 / Ratio: 10,02% / CPL: 4,93%**
    
    The campaigns generated an excellent response with 5,049,324 likes. The high number of likes shows a strong interaction of the target group 
    with the advertising content 
    The like rate of 10.02% results from the ratio of 5,049,324 likes to 50,404,108 views and means that for every 100 people who see an ad, 
    around 10 will give it a like. An engagement rate of over 10 percent is very high, as normal values are between 1 and 3 percent.
    The average cost of around 5 dollars per Like is acceptable in view of the high engagement rate.
-
-     
-**4. Total Likes 5.049.324 / Ratio: 5.17 %**
    
-   - Positive response: measurement of satisfaction and acceptance
-   - Content quality: indicator of relevant and appealing content
+**4. Total Clicks 2.606.521 / Rate: 5,17% / CPC: 9,55$**
+   
+   These more than 2.6 million clicks on the ads show the specific interest of users who responded to the advertising content. 
+   The high number of clicks shows that the target group is interested in the product. The click-through rate of 5.17 percent 
+   represents a high value. This CTR results from the ratio of 2,606,521 clicks to 50,404,108 views and means that for every 100 people who see an ad, around 5 click on it. 
+   The cost per click of 9.55 dollars shows the investment for each individual click on the ads. 
      
-**5. Converation Rate: 1,012 %**
+**5. Converation Rate: 1,012% / Conversion: 510 / CAC: 118 $**
 
-   - Efficiency indicator: Shows how well views are converted into actions
-   - Optimization potential: Identifies opportunities for improvement
-
+   With a conversion rate of 1.01%, 510 conversions were generated. With customer acquisition costs of 118$ per new customer.
 
 ## Project Summary
 
+The analysis shows both strengths and potential for improvement. While the high engagement rates (like rate 10.02%, CTR 5.17%) 
+indicate high-quality content and a well addressed target group, the low conversion rate of 1.01% shows a need for optimization in the conversion funnel.
+The data cleansing and standardization carried out forms the foundation for data-driven decisions and efficient marketing strategies. 
+The combination of technical improvements and effective processes ensures long-term data quality, which is directly reflected in improved campaign 
+results and Return of Investment (ROI).
+The dashboard provides a solid foundation for data-driven marketing decisions and enables continuous optimization of campaign performance.
 
 ## Recommendation
-
-The data cleansing and standardization carried out forms the foundation for data-driven decisions 
-and efficient marketing strategies. The combination of technical improvements and sustainable processes 
-ensures long-term data quality, which is directly reflected in improved campaign results and Return of Investment (ROI).
 
 1. Data cleansing Google Spreadsheet
    
@@ -82,13 +82,14 @@ ensures long-term data quality, which is directly reflected in improved campaign
    
 2. Decision support
 
-   - Precise target group segmentation through adjusted demographic data
-   - Target group-specific content through standardized age groups and correct gender data
-   - Optimized communication channels through streamlined telephone numbers
-   - Increased response rates through targeted approach
+   - Optimization of landing pages and the conversion process to increase the conversion rate
+   - A/B testing of various call-to-actions and landing pages
+   - In-depth analysis of the most successful campaigns to scale best practices
+   - Review of target group segmentation for even more precise targeting
 
 3. Early detection
 
    - Identifying best practices for future campaigns
    - Analysis of demographic-specific behavioural patterns
    - Optimization of campaign planning by target group
+  
