@@ -1,14 +1,7 @@
 # Marketflash-DB-Dashboard-Project
 
-The Story:
-Markus, the owner of a new, small but growing marketing company, MarketFlash, 
-has approached you to help design and build a database and a dashboard for his business needs. 
-His business is growing, so keeping the data in worksheets is not enough anymore. 
-He also wants a dashboard for his people to have clear visibility of how the business is going so they can make good decisions in time.
-
-Currently all the information for his 2023 business is in one worksheet which you have access to. 
-It contains the information on the 1000 campaigns ran in 2023 for his 78 clients as well as information 
-on the clients and results of the campaigns.
+The project includes the analysis of an interactive dashboard to evaluate the marketing expenses of 24.89 million $, with 78 customers and 1000 campaigns over 13 months. The dashboard visualizes the most important key performance indicators (KPIs) - expenses, views, likes with correlated ratio, clicks with click-through rate as well as the conversion rate including CAC (customer acquisition cost), CPV (customer per view), CPL (customer per like) CPC (customer per click)
+This enables detailed segmentation through filter options by date, channels, campaigns, gender and age groups. The goal is to analyze the performance metrics and identify data-based optimization recommendations for the cost-performance ratio.
 
 ## Project Description
 
@@ -35,7 +28,7 @@ on the clients and results of the campaigns.
 
 ## KPI Findings
 
-- Costs vs. performance balance
+- Overview of business performance
 - Quantity vs. quality of interactions
 
 **1. Total Expense 24.893.187 $**
