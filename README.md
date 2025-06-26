@@ -60,6 +60,7 @@ This enables detailed segmentation through filter options by date, channels, cam
 **5. Converation Rate: 1,012% / Conversion: 510 / CAC: 118 $**
 
    With a conversion rate of 1.01%, 510 conversions were generated. With customer acquisition costs of 118$ per new customer.
+   
    Before: 50,000,000 × 1.016% = 508,000 conversions
    After: 50,000,000 × 0.912% = 456,000 conversions
    Loss: 52,000 conversions less
