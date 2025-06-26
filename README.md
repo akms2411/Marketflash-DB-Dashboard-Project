@@ -72,7 +72,7 @@ The dashboard provides a solid foundation for data-driven marketing decisions an
 
 ## Recommendation
 
-1. Data cleansing Google Spreadsheet
+1. Data cleansing & Checking
    
    - Telephone numbers, standardization of formatting (international standards)
    - Gender, standardization of input formats (M/W/D)
