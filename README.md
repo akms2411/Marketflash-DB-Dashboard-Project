@@ -42,7 +42,7 @@ This enables detailed segmentation through filter options by date, channels, cam
    The CPV of 0.49 dollars reflects the efficiency of the expenses. This key figure shows that 49 cents were invested for each individual view of the ad.
    The combination of high reach and moderate costs per view indicates a well-scaled campaign.
 
-**3. Total Likes 5.049.324 / Ratio: 10,02% / CPL: 4,93%**
+**3. Total Likes 5.049.324 / Ratio: 10,02% / CPL: 4,93$**
    
    The campaigns generated an excellent response with 5,049,324 likes. The high number of likes shows a strong interaction of the target group 
    with the advertising content 
