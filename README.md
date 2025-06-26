@@ -8,7 +8,7 @@ He also wants a dashboard for his people to have clear visibility of how the bus
 
 Currently all the information for his 2023 business is in one worksheet which you have access to. 
 It contains the information on the 1000 campaigns ran in 2023 for his 78 clients as well as information 
-on the clients and results of the campaigns. The worksheet has the following 
+on the clients and results of the campaigns.
 
 ## Project Description
 
