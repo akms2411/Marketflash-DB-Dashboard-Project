@@ -28,23 +28,29 @@ This enables detailed segmentation through filter options by date, channels, cam
 
 ## KPI Findings
 
-- Overview of business performance
-- Quantity vs. quality of interactions
+**1. Total Expense 24.893.187$ / CAC: 319.144$**
+   
+   The total expense of 24,893,187 dollars over a period of 13 months shows the total investment in customer acquisition. 
+   The resulting Customer Acquisition Cost (CAC) of 319,143 dollars per new customer shows the significant investment required 
+   to acquire a single customer. This figure puts the total spending in relation to the number of customers actually acquired.
 
-**1. Total Expense 24.893.187 $**
-   
-   - Cost efficiency: identification of cost drivers and optimization potential
-   - Stakeholder-Reporting: Transparenz über Mittelverwendung
      
-**2. Total Views 50.404.108**
+**2. Total Views 50.404.108 / CPV: 0,49$**
    
-   - Reach measurement: Indicator for the visibility of your content
-   - Content performance: Evaluation of the attractiveness of your content
+   The reach of over 50 million contacts shows the significant potential of the target group approach and illustrates the 
+   scaling of the marketing activities (ads, videos or advertised content)
+   The CPV of 0.49 dollars reflects the efficiency of the expenses. This key figure shows that 49 cents were invested for each individual view of the ad.
+   The combination of high reach and moderate costs per view indicates a well-scaled campaign.
+
      
 **3. Total Clicks 2.606.521 / Ratio: 10.02%**
    
-   - Engagement measurement: Shows active user interest
-   - Campaign effectiveness: Measurement of calls to action
+   The campaigns generated an excellent response with 5,049,324 likes. The high number of likes shows a strong interaction of the target group 
+   with the advertising content 
+   The like rate of 10.02% results from the ratio of 5,049,324 likes to 50,404,108 views and means that for every 100 people who see an ad, 
+   around 10 will give it a like. An engagement rate of over 10 percent is very high, as normal values are between 1 and 3 percent.
+   The average cost of around 5 dollars per Like is acceptable in view of the high engagement rate.
+
      
 **4. Total Likes 5.049.324 / Ratio: 5.17 %**
    
