@@ -57,12 +57,12 @@ This enables detailed segmentation through filter options by date, channels, cam
    represents a high value. This CTR results from the ratio of 2,606,521 clicks to 50,404,108 views and means that for every 100 people who see an ad, around 5 click on it. 
    The cost per click of 9.55 dollars shows the investment for each individual click on the ads. 
      
-**5. Converation Rate: 1,012% / Conversion: 510 / CAC: 118 $**
+**5. Converation Rate: AVG 1,012% / Conversion: 510 / CAC: 118 $**
 
    With a conversion rate of 1.01%, 510 conversions were generated. With customer acquisition costs of 118$ per new customer.
    
-   - Before: 50,000,000 × 1.012% = 508,000 conversions
-   - After: 50,000,000 × 0.912% = 456,000 conversions
+   - Before: 50,000,000 Views × 1.016% = 508,000 conversions
+   - After: 50,000,000 Views × 0.912% = 456,000 conversions
    - Loss: 52,000 conversions less
 
 
