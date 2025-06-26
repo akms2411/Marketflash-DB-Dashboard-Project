@@ -1,6 +1,6 @@
 # Marketflash-DB-Dashboard-Project
 
-The project includes the analysis of an interactive dashboard to evaluate the marketing expenses of 24.89 million $, with 78 customers and 1000 campaigns over 13 months. The dashboard visualizes the most important key performance indicators (KPIs) - expenses, views, likes with correlated ratio, clicks with click-through rate as well as the conversion rate including CAC (customer acquisition cost), CPV (customer per view), CPL (customer per like) CPC (customer per click)
+The project includes the analysis of an interactive dashboard to evaluate the marketing expenses of 24.89 million $, with 78 customers and 1000 campaigns over 13 months. The dashboard visualizes the most important key performance indicators (KPIs) - expenses, views, likes and clicks with correlated ratio, clicks with click-through rate as well as the conversion rate including CAC (customer acquisition cost), CPV (customer per view), CPL (customer per like) CPC (customer per click)
 This enables detailed segmentation through filter options by date, channels, campaigns, gender and age groups. The goal is to analyze the performance metrics and identify data-based optimization recommendations for the cost-performance ratio.
 
 ## Project Description
