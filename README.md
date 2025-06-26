@@ -22,9 +22,9 @@ This enables detailed segmentation through filter options by date, channels, cam
 
 [Marketflash DB](https://github.com/akms2411/Marketflash-DB-Dashboard-Project/blob/main/sql_db/Mini%20Projekt.db)
 
-## Tableau Workbook
+## Tableau Dashboard
 
-[Performance Dashboard - Marketflash 2023](https://github.com/akms2411/Marketflash-DB-Dashboard-Project/blob/main/data/Mini%20Project%20Marketflash%20.twbx)
+![Dashboard](https://github.com/akms2411/Marketflash-DB-Dashboard-Project/blob/main/images/Dashboard%201.png)
 
 ## KPI Findings
 
