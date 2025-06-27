@@ -12,7 +12,7 @@ This enables detailed segmentation through filter options by date, channels, cam
 5. Create Dashboard Mockup - [Mockup](https://github.com/akms2411/Marketflash-DB-Dashboard-Project/blob/main/images/Mockup%20Dashboard.png)
 6. Create Tableau Workbook 
 7. Create Dashboard in Tableau - [Performance Dashboard - Marketflash 2023 (Public Link)](https://public.tableau.com/views/MiniProjectMarketflash/Dashboard1?:language=de-DE&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-9. Finalizing Presentation
+9. Finalizing Presentation - [Video](https://www.loom.com/share/d5db95876f0c4c2f94fd9d797df054e0?sid=6c96d2ff-60bb-44f6-8f48-b50775416e5d)
 
 ## Database Design 
 
